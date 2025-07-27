@@ -1,1 +1,3 @@
 # DATA_SCIENCE_PROJECT
+
+I built a data-driven migraine prediction web app using Streamlit, designed to classify migraine types based on clinical symptoms. The pipeline involved data cleaning, label encoding, and feature scaling with MinMaxScaler. I trained and tuned a Random Forest classifier using GridSearchCV to optimize performance. The model outputs personalized predictions along with preventive suggestions, enhancing usability. I handled model serialization with pickle for efficient deployment. This project highlights my ability to apply machine learning, perform end-to-end data preprocessing, and deliver user-centric solutions as a Data Scientist.

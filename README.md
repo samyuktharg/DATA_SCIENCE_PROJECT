@@ -1,10 +1,10 @@
-# 🧠 Migraine Type Prediction Web App
+# Migraine Type Prediction Web App
 
 This project is a Streamlit-based web application that predicts the type of migraine a user may be experiencing based on their symptoms. The app uses a trained Random Forest Classifier and provides personalized preventive recommendations alongside the prediction.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Predicts migraine types using clinical features
 - Displays detailed preventive measures
@@ -14,7 +14,7 @@ This project is a Streamlit-based web application that predicts the type of migr
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset includes various features like:
 
@@ -27,7 +27,7 @@ The dataset includes various features like:
 
 ---
 
-## 🧠 Model
+## Model
 
 - **Algorithm**: Random Forest Classifier
 - **Hyperparameter Tuning**: Performed using `GridSearchCV`
@@ -40,13 +40,13 @@ The model is serialized using `pickle` for reusability.
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Python
 - scikit-learn
 - pandas / numpy
 - Streamlit
 - pickle
-- matplotlib (imported for future use)
+- matplotlib 
 
 ---
